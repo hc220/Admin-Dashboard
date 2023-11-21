@@ -19,10 +19,5 @@ To run this project locally, ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (with npm or yarn)
 - Modern web browser (Chrome, Firefox, Safari, etc.)
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/admin-dashboard.git
 
